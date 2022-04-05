@@ -1,0 +1,99 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: merriweather;
+}
+
+section.header {
+  background-color: rgb(213 173 229);
+}
+h1.name {
+  padding-top: 7%;
+  margin-left: 7%;
+  font-size: 38px;
+}
+.links-contactdetails {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin-left: 7%;
+  margin-top: -1%;
+}
+span.email {
+  margin-left: -34%;
+}
+h3.designation {
+  padding-top: 1%;
+  padding-bottom: 1%;
+  margin-left: 7%;
+  color: grey;
+}
+ul {
+  padding-top: 1%;
+  list-style-type: none;
+}
+li {
+  padding: 2% 0% 2% 0%;
+}
+li.project-links {
+  padding: 0;
+}
+section.body {
+  width: 40%;
+  margin-left: 7%;
+  margin-top: 3%;
+}
+h4.project-name {
+  padding: 1% 0% 2% 0%;
+}
+p {
+  padding: 1% 0% 2% 0%;
+}
+h5.technologies-used {
+  font-size: 14px;
+}
+h5.technologies-used {
+  font-size: 14px;
+  padding: 1% 0% 1% 0%;
+}
+li.project-links {
+  padding: 1% 0% 1% 0%;
+}
+.projects {
+  margin-top: 3%;
+}
+ul.dots {
+  list-style-type: disc;
+  margin-left: 7%;
+}
+h3.body-heading {
+  color: #0f81af;
+}
+.skills {
+  padding: 2% 0% 1% 0%;
+}
+span.subskills {
+  font-weight: 100;
+}
+
+.flex {
+  display: flex;
+}
+section.body2 {
+  /* top: 32%; */
+  width: 40%;
+  margin-left: 7%;
+  float: right;
+  /* position: absolute; */
+  /* right: 5%; */
+  /* margin-top: -55%; */
+  margin-top: 3%;
+}
+h5.work-exp {
+  font-size: 14px;
+  padding: 1% 0% 1% 0%;
+  font-weight: 100;
+}
+li.work-points {
+  padding: 0;
+}
